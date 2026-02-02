@@ -332,13 +332,13 @@ body {
 
 /* Content Improvements */
 .content.has-text-justified {
-  font-size: 1.1rem;
-  line-height: 1.8;
+  font-size: 1rem;
+  line-height: 1.6;
   color: var(--text-secondary);
 }
 
 .content.has-text-justified p {
-  margin-bottom: 1.5rem;
+  margin-bottom: 1.4rem;
 }
 
 /* Footer Improvements */
